@@ -3,7 +3,8 @@ Hi 👋, 我是[李帅 (阿木) ](https://twitter.com/shuai_li_)
 ## 关于
 
 🌻 别名「阿木」, 真名「李帅」, 网络 ID「Jerry」    
-🖥️ 男, 25+, 目前从事前端开发工作      
+👨 男, 25+, 现居北京     
+🖥️ 目前从事前端开发工作      
 
 <!--
 **JerryHub-dev/JerryHub-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
